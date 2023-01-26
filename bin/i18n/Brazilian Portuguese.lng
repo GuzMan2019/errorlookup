@@ -1,0 +1,30 @@
+; <Português do Brasil>
+; <Paulo Guzmán>
+
+[<Brazilian Portuguese>]
+IDS_LCID=0x0409
+IDS_UPDATE_NO=Nenhuma atualização disponível.
+IDS_UPDATE_YES=Atualização disponível, baixar e instala-lá?
+IDS_FILE=Arquivo
+IDS_SETTINGS=Configurações
+IDS_EXIT=Sair
+IDS_LANGUAGE=Idioma
+IDS_HELP=Ajuda
+IDS_WEBSITE=Site
+IDS_CHECKUPDATES=Verificar por atualizações
+IDS_ABOUT=Sobre
+IDS_DONATE=Agradeça!
+IDS_ALWAYSONTOP_CHK=Manter janela no topo
+IDS_INSERTBUFFER_CHK=Inserir buffer na inicialização
+IDS_CHECKUPDATES_CHK=Verificar periodicamente por atualizações (recomendado)
+IDS_CODE=Código do Erro
+IDS_MODULES=Módulos
+IDS_DESCRIPTION=Descrição
+IDS_STATUS_TOTAL=Módulos carregados: %d de %d
+IDS_UPDATE_ERROR=Atualizar erro de conexão do servidor.
+IDS_UPDATE_DOWNLOAD=Baixando atualização...
+IDS_UPDATE_DONE=Transferência da atualização concluída.
+IDS_UPDATE_INIT=Verificar por novos lançamentos...
+IDS_UPDATE_INSTALL=Atualização disponível, deseja instalá-la?
+IDS_CLOSE=Fechar
+IDS_RESET=Redefinir
